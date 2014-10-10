@@ -1,0 +1,29 @@
+@font-face {
+	font-family: Futura;
+	src: url(Futura.otf);
+}
+
+body {
+	font-family: Futura;
+	font-weight: lighter;
+	margin: 40px;
+}
+
+h1, h2, h3, p, li {
+	font-weight: lighter;
+	padding: 0px;
+	margin: 10px;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 36px;
+	margin-top: 30px;
+}
+
+p {
+	font-size: 18px;
+}
